@@ -7,11 +7,12 @@
   6. 请确保数据有10个词
   7. 只计算前7个词，剩余3个词会作为备选进行替换，请注意‘替换信息’
   8. 保存的数据文件中‘DAT得分’为0时，表明出现异常，请检查输出的信息和词有效性
+  9. ‘./data/words_data.xlsx’ 为数据文件结构，可根据需要修改
 
 
 词向量模型
   1. 项目名称：Tencent AI Lab Embedding
   2. 项目地址：https://ai.tencent.com/ailab/nlp/en/download.html
   3. 目的：计算词向量
-	4. 类型：word2vec
+  4. 类型：word2vec
   5. 备注：下载的文件为压缩文件，需要解压里面的txt文件
